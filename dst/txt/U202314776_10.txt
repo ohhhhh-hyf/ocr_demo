@@ -1,0 +1,45 @@
+No:
+Date:
+②噪声容限）负载门输入高电平时VNH=VOH(min)-VIH(min)，为允许负向噪声最大值．
+负载门输入低电平时VNL=VI((max)-VIH(max)，为允许正向噪声最大值
+③传输延迟时间：tPHI=tpLH 与电源电压VOD及负载电衣大小有关
+④功耗3静态功耗：电路空载时电源总电流ID与电源电压的乘积．
+动态功耗：电路在输出状态转换时的功耗．
+TTL电路主要是静态功耗，CMOS电路则主要是动态功耗．
+Vec
+→课本了解．
+IRc
+BVT开关电路
+VI=OV,ce近似开路BJT截止．
+V2 RD
+→Vo
+V1=5V,ce近似短路BJT饱和导通
+IoM
+IIL
+Vo
+V1
+门电路电压兼容性和电流匹配性问题．
+①驱动电路VoH(min)≥负载电路VIH(min)
+②驱动电路VOL(max）负载电路VI((man)
+←IoL
+→IIH
+驱动门GI
+负载门G2
+0--II
+3马驱动电路|IOH(maool2IIH(toral）负载电路．
+④驱动电路 IoL(ma)＝负载电路／Izu(total)l
+IoL(max)=0./mA,IOH(max)=-0.1mA
+例：已知3.3VCMOS门作驱动电路：VoH(min)=2.4V,VoL(max)=0.4V
+IIH(max)=5MA,IIL(max)=-5MA
+5VCMOS门作负载电路：VIH(min)=3.5V,VI((max)=1.5V,
+上述四条仅①不满足．为使满足而外接一上拉电阻Rp
+3·3V
+5-JV
+→IIHctotai)
+从而 VON=VDD-Rp(IozhIIH)
+RpF
+Ioz是驱动门输出级截止时的漏电流．
+驱动电路
+负载电路．
+NOTEBOOK
+T

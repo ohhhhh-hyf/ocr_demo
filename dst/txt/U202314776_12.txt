@@ -1,0 +1,32 @@
+No:
+配分函数z的推导：（对于单原子分子及多原子分子均适用）
+已知E=2m(P2+P2+P2）且在体积V内，在Px到Px+dpx,Py到
+Py+dpy,Pe到pz+dpe内自由粒子的量子态数为 jdpxdpy dpz
+取V=//xdydz，则为 axdydedpxdpydpz 由z=Ewe-p
+将求和变作积分有Z=…fe
+h=(P2+3+2)dx dy de dpxdpydpz
+即＝/|dxdydzteSpidpx e mpi dpy  etmpe dps
+求得＝v(2)"，其中B＝前．即证毕．
+麦克斯韦速度分布律
+玻耳磁曼分布a(=wle--，给出＆=2m(P2+P+P2),V内动量
+在dp,dpy dpz内状态数为 T3dp、dpydp2．则在此范围内分子数为
+se-a-2mT(P2+2+P陆）dpxdpydpz．且有范ed-(P.4+P2)dpdpydp2
+从而确定x满足ed=v(2cmkT)，由Px=mVx,Py=mVy,Pz=mV2
+替换得在dvxdvydvz范围内分子数为N(Z2KT)2e-2(vi2+v32+V2)
+以＝n表示单位体积内分子数．即单位体积内速度在dvxdvydv≥内分子数力
+f(vw,vy,ve)dvrdvy dve=n(2πT)e-2TT(vi2+vi+v2)dvxdvydvz.
+由于速度分布函数满足归一化条件从而F(vx,vy,v2)=(Z2KT)e-2KT(Vi+V分＋场
+前f(v.,vn,ve）是物理意义上的速度单位空间内的分子数目，而后f(vr.vy,v3)
+则代表为单位速度空间的粒子数比例．即f(vx.vy.ve)=f(valvs,ve)·n
+其中，f(v.,vs.v2）称为麦克斯韦速度分布函数、=Ndvxdvydvz（占比）
+微观
+=N
+dNaw
+dNVx=N(ZAKT)2e 2xTdVx. g(V.)=(ZRET)2e-zTV2
+dNvy=N(T2e-vdvyg(Vy)=(21)2e-20+V22
+推
+dNvz=N(2Ak1)2edV2. g(V2)=(2RET)2e-2tiV2
+HOTEBOOK
+分子速度Ux.Vy,vi三分量的分布规律是独立的．
+句
+书

@@ -1,0 +1,46 @@
+VDD
+No:
+RPIRP
+*Rp(max)＝所有OD门输出均为高电平．→电路功耗小
+IIH
+IRp=(VOD-VOH)/Rp=ITH(total)+ Inz(total)
+Ioz
+IIH
+则VOH=VDD-Rp(Ioz(+otal)+IIH(total))>VOH(min)
+即Rpcman=
+Voo-Vor(min)
+Ioz(total)+IIH(total)
+Ioz(total）为全部驱动门输出高电平时漏电流总和．IIH(total)=nIIH.
+＊应用：①驱动二极管． ②实现逻辑电平转换．③实现多个与非门的线与．
+VDD
+-5V
+JRP
+1Rp
+TRp
+ZM
+三态输出门电路（简称三态门，具有高、低电平及高阻态，又称禁止态）
+VDD
+*OD门线与而Rp选择受限，速度受影响（使能端）
+*A为输入端，L为输出端，EN是控制信号输入端
+总线
+*EN=1,A=1输出L=1高电平 EN,
+TN
+EN=1,A=0输出L=0．低电平．A A
+I☆
+电路结构
+EN=O,A=0/1均为高阻态
+EN2
+EN
+A2-D
+A-
+-L
+＊应用：总线传输→
+ENz
+逻辑图
+为避免不同信号产生冲突，因而任何
+A:--D
+时刻均只有一个使能端为1，其余处在高阻态且七高通→电平＞电平→高阻．
+CMOS逻辑门电路重要参数．
+输入高电平下限值．VIL(mmn)
+1输入低电平上限值VIL(max)
+输出低电平上限值VoL(man). 输出高电平下限值VOL(min)TEBOOK

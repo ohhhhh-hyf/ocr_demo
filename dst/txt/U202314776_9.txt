@@ -1,0 +1,30 @@
+No:
+Date:
+②玻色分布：玻色系统粒子的最概然分布．B.E=Il!(-)i
+In_-lBE=3[/n(wi+ac-1)!-Inai!-In(w(-)!］假设a(>>1.wi>>|
+≈[[In(wi+ai)!-Inai!-Inw.!] 利用斯特令公式．
+≈[[w(+a)/n(wi+a)-a(/nal-wi/nwv]
+取S=In-2BE-α(FaL-N)-B(F2aL-E)，令aa,=0
+得［n(wn+ai)+weta-nac--α-BE1]=o化简得
+③费米分布：费米系统粒子的最概然分布．SF.D=a!(w-a)!
+InSΩF.D={[Inwi!-Inai!-In(wi-ai)!] 利用斯特令公式
+玻色分布．
+-Wl
+ac=y+s
+B=F
+≈=[wi/nwi-wi-ai/nai+ai-(wi-a)/n(wi-ai)+(wi-av)]
+==[wilnwi-acinal-(wi-a.)In(wi-av)]
+取S=1n_ΩF.D-α(Ea.-N)-B(Ea、a.-E)，令x、=0.
+得√[-ina-=+In(wi-a)+W-a-α-BE.]=0
+wl
+费米分布． B=FT
+化简得a1=x+B51+1
+＊在ex+>》1或f(=m《1（等价）且ex>》1时M.B分布三种情况均适用．
+内能：已知ac=w,ea-B则U=Fa&==.wiea-BE
+引入配分函数z=[wie-"仅与系统状态有关．
+dlnz
+则N=Eal=e-dTwe=edz 则e-α=l.
+即U=e-d=&we-Ra=)==
+由薛定谔方程得到ex=(2T)3．方＝充则z=（这I)3v
+v则U=-N/2=N.3./p=3/2NKT
+p=2=/t=nkT

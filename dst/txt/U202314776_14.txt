@@ -1,0 +1,47 @@
+正文性
+No:
+Date:
+ftotT'
+sih(nwit)sim(mu,t)dt
+Ito
+0. m≠n
+to+Ticos(nwit) cos(mwit)dt
+T1/2.m=n
+对于周期信号
+to
+t)
+totcos(mwit)sin(mwit)dt=0
+to
+0,m+n
+fott ejhwitejmwitdt=
+T1,m=n
+傅里叶级数表示：1三角函数形式：x(t)=ao+=[aocos(mwit)+bnsin(nwiti]
+=Co＋忌ancos(nwit+4n)
+②复指数函数形式：x(+)=Frejkwit
+则可求得
+Fk=F/Tx(t)e-jkwit
+Co=ao=Fo
+F+n=2(an-jbn)
+dt.
+an=/f+x(t)oos(nwit)at
+Cn=√an/+bi
+F_n=/(an+jbn)
+bn=//x(+)sin(nw,t)dt
+4n=-arctan（品）
+W=o时 Co=ao=Fo称为直流分量
+幅度谱为|Fr|及Cn
+w=w.（原信号频率）时相应地称为基波分量 相位谱为 4n及4F.
+w=nw，时相应地称为n次谐波分量．
+FK=|F2=|e+4c
+傅里叶变换：x(jw)=)-ax(+)e at=Re(w)+jIm(w).
+x(t)=22/-aX(jw)eint dw.
+<＝对于非周期信号
+幅度频谱|x(jw)|=√Re(w)+Im(w)
+Imlw)
+|x(/jv1|称能语密度
+相位频谱4(jw)=√X(jw)=arctanRe(w)
+|x(pw|偶对称
+若X(4）是实函数Re(w)=√+ogx(+)cos(wt)at 偶函数
+Im(w)=[±x(t)sm(wt)at 奇函数 xX(w）奇对称
+NOTE
+T
